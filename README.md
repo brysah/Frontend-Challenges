@@ -13,6 +13,7 @@ Welcome to my repository showcasing various frontend challenges! Here, you'll fi
 | Website Conversion        | [Link to Challenge ](https://github.com/brysah/gpt)   | Figma to React Website                      | React, styled-components                                 |
 | Stan TV        | [Link to Challenge ](https://github.com/brysah/StanTv)    | A React application featuring a carousel of program images on the "Home" page, with each image providing access to detailed program descriptions on the "Program" page.                     | React, Vite, Styled-Components,Swiper,React-router                                  |
 | A fazenda      | [Link to Challenge ](https://github.com/brysah/A-fazenda)    |Create a webpage based on a provided layout (a-fazenda.psd) and retrieve data from a JSON file (/fazenda.json).                 | React,  Styled-Components                               |
+| SpendIn Landing Page     | [Link to Challenge ](https://github.com/brysah/SpendIn)    |Figma to React Website                 | React,  TailwindCss                              |
 
 ## License 📄
 
